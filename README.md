@@ -1,5 +1,5 @@
 # Rim Protection Analysis
-Identifying the Best &amp; Most Well-Rounded Guard Rebounders in the NBA.
+Finding a Measure for 'Rim Protection Ability' to Identify the Best Rim Protectors in the NBA
 
 [Code (click here)](https://github.com/yashwantsathish/Rebounding-Analysis/blob/main/Rim%20Protection%20Analysis.ipynb)
 
